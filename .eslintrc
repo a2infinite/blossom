@@ -46,6 +46,7 @@
 		"camelcase": "error",
 		"node/no-unpublished-import": "off",
 		"node/no-unsupported-features/es-syntax": "off",
+		"pii/no-phone-number": "off",
 		"node/no-missing-import": [
 			"error",
 			{
