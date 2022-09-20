@@ -1,0 +1,76 @@
+## Functionality (admin)
+
+- CRUD for events
+- Branch Management
+  - photos
+  - address
+  - mobile number
+  - email (ask first)
+- Admission Management (on hold)
+  - admission fee (branch specific)
+  - branch specific admission form
+  - admission form (branch specific)
+- Facilities
+  - title
+  - icon
+- Contact US
+- Gallery
+  - photos
+  - videos
+- Student life (on hold)
+- Achievement
+- School Staff
+- Media coverage
+- Authentication
+  - student login (approval required by teacher)
+  - teacher login (approval required by admin)
+- Class Management
+  - Global
+    - syllabus
+  - Specific class
+    - assign teacher to class
+    - period time table for class
+- Rights
+  - teacher
+    - class in charge
+    - period
+    - approve students
+    - behavior points for students (per week)
+    - attendance management
+    - test scores (download option)
+  - student
+    - view his attendance
+    - view his behavior points
+    - view test scores
+- Character certificate (school leaving) that will be according to behavior points (admin right)
+
+## Design Pages and sections
+
+- Home
+  - Branches
+  - Facilities
+  - Latest and upcoming events
+  - query form
+  - show student life
+  - achievement
+  - Photo Gallery
+- Contact Us
+- Fee structure
+- Gallery
+  - Photo
+  - Video
+- School Staff
+- Admission form
+- Class
+  - time table
+  - syllabus
+  - Teacher
+- About US
+  - Public Disclosure
+  - History and Milestone
+  - Founder
+  - Vision and Mission
+  - Administration
+  - Media coverage
+  - Awards
+- Toppers
